@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cd22\\Documents\\Examen Unidad2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF56995-122D-4358-B093-7CC47ED6FA57}|Examen Unidad2.csproj|C:\\Users\\cd22\\Documents\\Examen Unidad2\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBF56995-122D-4358-B093-7CC47ED6FA57}|Examen Unidad2.csproj|solutionrelative:css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF56995-122D-4358-B093-7CC47ED6FA57}|Examen Unidad2.csproj|c:\\users\\cd22\\documents\\examen unidad2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBF56995-122D-4358-B093-7CC47ED6FA57}|Examen Unidad2.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF56995-122D-4358-B093-7CC47ED6FA57}|Examen Unidad2.csproj|C:\\Users\\cd22\\Documents\\Examen Unidad2\\js\\uri.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FBF56995-122D-4358-B093-7CC47ED6FA57}|Examen Unidad2.csproj|solutionrelative:js\\uri.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\cd22\\Documents\\Examen Unidad2\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\cd22\\Documents\\Examen Unidad2\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-29T20:39:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "uri.js",
+              "DocumentMoniker": "C:\\Users\\cd22\\Documents\\Examen Unidad2\\js\\uri.js",
+              "RelativeDocumentMoniker": "js\\uri.js",
+              "ToolTip": "C:\\Users\\cd22\\Documents\\Examen Unidad2\\js\\uri.js",
+              "RelativeToolTip": "js\\uri.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T20:38:57.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\cd22\\Documents\\Examen Unidad2\\css\\Style.css",
+              "RelativeDocumentMoniker": "css\\Style.css",
+              "ToolTip": "C:\\Users\\cd22\\Documents\\Examen Unidad2\\css\\Style.css",
+              "RelativeToolTip": "css\\Style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-29T20:38:40.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 20,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

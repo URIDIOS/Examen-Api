@@ -1,0 +1,13 @@
+﻿body {
+    
+    background-color: darkred;
+    
+
+}
+button {
+    border-radius: 20px;
+    font-size: xx-large;
+    background-color: azure;
+    padding: 1rem;
+    transition: 10ms ease-in-out;
+}
